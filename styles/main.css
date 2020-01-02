@@ -3160,7 +3160,7 @@ body {
 }
 
 .btn-linkedin:hover, .btn-linkedin:focus, .btn-linkedin:active {
-  color: #00669c;
+  color: #2867b2;
 }
 
 .nav-tabs {
@@ -7245,12 +7245,12 @@ Created using IcoMoon - icomoon.io
   color: #3b5998;
 }
 
-.cc-twitter:hover i {
-  color: #1da1f2;
+.cc-linkedin:hover i {
+  color: #2867b2;
 }
 
-.cc-google-plus:hover i {
-  color: #dd4b39;
+.cc-github:hover i {
+  color: black;
 }
 
 .cc-instagram:hover i {
